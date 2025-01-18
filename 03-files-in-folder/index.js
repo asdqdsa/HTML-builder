@@ -1,4 +1,3 @@
-const { error } = require('node:console');
 const fsPromise = require('node:fs/promises');
 const path = require('path');
 
